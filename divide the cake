@@ -1,2 +1,13 @@
 Consider a rectangular cake with a rectangular section (of any size or orientation) removed from it.
 Is it possible to divide the cake exactly in half with only one cut?
+
+
+solution approch is ::what does every line that cuts a rectangle in half have in common (something simple) ?
+the correct answer is ::Option D...!
+
+approach?
+Every line that cuts a rectangle in half passes through the center of the rectangle. 
+There are infinite such lines for every rectangle.
+However, there is exactly one line that passes through the centers of both rectangles, the cake and the hole in it – 
+that is, of course, unless they share a common center. This line divides both rectangles exactly in half, and this is the line along which you make the cut. 
+Hence, its always possible.
